@@ -1,1 +1,2 @@
 # brutefb
+MODO DE USO

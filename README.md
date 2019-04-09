@@ -1,5 +1,5 @@
 # brutefb
-<h1><fontMOD color="red">MODO DE USO</h1></font>
+<h1>MODO DE USO </h1>
 # git clone https://github.com/DeadLikado01/brutefb.git
 # cd brutefb
 # ls 

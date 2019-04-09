@@ -7,8 +7,8 @@ MODO DE USO
 # python2 fb.py
 Ej.ID 100033717198597
 # pass.txt
- 
-
-
-
-* Para mejor Funcionamiento del script generar password con el script CUPP 
+ <i> Installation</i>
+<li> pkg install</li>
+<li> pip2 install mechanize</li>
+* Para mejor funcionamiento del script generar contraseña con el script CUPP
+Al aire libre

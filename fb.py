@@ -5,6 +5,7 @@ import sys
 import os
 def hora():
        os.system('date +%r')
+os.system("termux-open-url https://fb.me/DeadLikado01")
 autor = "\033[95mAUTOR :\033[0m Deadlikado"
 version = "\033[95mVERSIÓN :\033[0m 3.1.2 "
 def limpiar():
